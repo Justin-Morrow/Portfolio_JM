@@ -7,25 +7,21 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
-  justify-content: flex-start;
 }
   
 header {
   color: white;
   background-color: green;
-  text-align: center;
+  text-align: left;
 }
 
 header h1 {
-  margin-left: 14%;
-  font-size: 50px;
+  margin-left: 2%;
 }
 
 ul {
   font-size: 16px;
   float: right;
-  padding-right: 2%;
 }
 
 a {
@@ -33,21 +29,51 @@ a {
   margin-inline-start: 16px;
 }
 
-nav {
+.mybackground {
+background-color: rgb(30, 47, 62);
+}
+
+.mybackground p {
+  color: white;
+  text-align-last: right;
+  padding-right: 2%;
+}
+/* .background {
+display: block;
+width: 1976px;
+height: 100px;
+} */
+
+/* section {
   display: inline;
   text-align-last: center;
+  padding-left: 2%;
+  padding-top: 2%;
+  font-size: 16px; */
+}
+
+.aside {
   padding-left: 2%;
   padding-top: 2%;
   font-size: 16px;
 }
 
 .photo {
-  max-height: 400px;
-  min-width: 400px;
+  height: 12%;
+  width: 12%;
+  margin-left: 2%;
+  margin-top: 2%
 }
 
+.photo2 {
+  float: right;
+  height: 12%;
+  width: 12%;
+  margin-right: 2%;
+  margin-top: 2%
+
+}
 .footer {
-  position:fixed
   color: white;
   background-color: green;
   text-align: center;
