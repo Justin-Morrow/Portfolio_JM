@@ -1,0 +1,8 @@
+.myheight {
+    max-height: 400px;
+    width: max-content;
+}
+
+.myheight2 {
+    max-height: 100px;
+}
