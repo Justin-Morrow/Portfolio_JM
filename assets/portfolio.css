@@ -1,3 +1,4 @@
+
 .myheight {
     max-height: 400px;
     width: max-content;
@@ -6,3 +7,22 @@
 .myheight2 {
     max-height: 100px;
 }
+.photo-background {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../assets/Seattle.jpeg");
+    background-position: relative;
+    background-size: cover;
+    display: inline-block;
+};
+.profile {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    margin-top: 120px;
+    border-radius: 20%;
+    height: 400px;
+    width: auto;
+    z-index: 1;
+};
