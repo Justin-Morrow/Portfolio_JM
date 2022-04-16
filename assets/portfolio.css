@@ -1,4 +1,8 @@
-
+:root {
+    --gray: lightgray;
+    --white: white;
+    --skyblue: blue;
+}
 .myheight {
     max-height: 400px;
     width: max-content;
@@ -8,7 +12,7 @@
     max-height: 100px;
 }
 .photo-background {
-    height: 400px;
+    height: 17%;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../assets/Seattle.jpeg");
@@ -16,7 +20,7 @@
     background-size: cover;
     display: inline-block;
 };
-.profile {
+/* .profile {
     position: absolute;
     top: 0;
     left: 5px;
@@ -25,4 +29,18 @@
     height: 400px;
     width: auto;
     z-index: 1;
-};
+} */
+
+.content {
+    border-bottom: transparent;
+    border-top: transparent;
+    border-left: transparent;
+}
+
+/* .content-section {
+
+} */
+
+#background {
+    background-color: var(--gray);
+}
