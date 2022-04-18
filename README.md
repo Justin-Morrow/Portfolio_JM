@@ -27,7 +27,7 @@ The program requires a basic opearting system such as windows or iOS. The user a
 
 ## Instructions
 
-Use HTML and CSS to define structure and style into the webpage from its previous version. Use GITHUB to push the website into a respository for public view.
+Use HTML and CSS to define structure and style into the webpage. Use GITHUB to push the website into a respository for public view.
 
 ## License
 
