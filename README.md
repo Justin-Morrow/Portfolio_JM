@@ -19,7 +19,7 @@
 
 ## Description
 
-The project is an assignment that asks for the web developer to create a website to showcasing portfolio projects of the full stack engineer. 
+The project is an assignment that asks the web developer to create a website to showcase portfolio projects.
 
 ## Installation
 
