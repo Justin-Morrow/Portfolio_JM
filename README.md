@@ -19,7 +19,7 @@
 
 ## Description
 
-The project is an assignment that asks the web developer to create a website to showcase portfolio projects. The link to the repostiory is https://github.com/Justin-Morrow/Portfolio_JM/
+The project is an assignment that asks the web developer to create a website to showcase portfolio projects. The link to the repostiory is https://github.com/Justin-Morrow/Portfolio_JM/ and the deployed link is https://justin-morrow.github.io/Portfolio_JM/
 
 ## Installation
 
