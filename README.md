@@ -1,6 +1,5 @@
 # Portfolio_JM
 ![Thumbnail](/assets/images/Justin_smaller.JPG)
-![Link](https://github.com/Justin-Morrow/Portfolio_JM/)
 
 ## Table of Contents
 
@@ -20,7 +19,7 @@
 
 ## Description
 
-The project is an assignment that asks the web developer to create a website to showcase portfolio projects.
+The project is an assignment that asks the web developer to create a website to showcase portfolio projects at (https://github.com/Justin-Morrow/Portfolio_JM/)
 
 ## Installation
 
