@@ -1,5 +1,6 @@
 # Portfolio_JM
-![Thumbnail](/assets/images/Justin_smaller.JPG)(https://github.com/Justin-Morrow/Portfolio_JM/)
+![Thumbnail](/assets/images/Justin_smaller.JPG)
+(https://github.com/Justin-Morrow/Portfolio_JM/)
 
 ## Table of Contents
 
