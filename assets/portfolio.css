@@ -19,17 +19,7 @@
     background-position: relative;
     background-size: cover;
     display: inline-block;
-};
-/* .profile {
-    position: absolute;
-    top: 0;
-    left: 5px;
-    margin-top: 120px;
-    border-radius: 20%;
-    height: 400px;
-    width: auto;
-    z-index: 1;
-} */
+}
 
 .content {
     border-bottom: transparent;
@@ -37,16 +27,8 @@
     border-left: transparent;
 }
 
-/* .content-section {
-
-} */
-
 #background {
     background-color: var(--gray);
-}
-
-.tags {
-
 }
 
 .myprojects {
