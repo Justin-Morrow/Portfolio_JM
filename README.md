@@ -23,7 +23,7 @@ The project is an assignment that asks the web developer to create a website to 
 
 ## Installation
 
-The program requires a basic opearting system such as windows or iOS. The user also needs Visual Studio Code and a web browswer. 
+The program requires a basic opearting system such as windows or iOS. The developer needs Visual Studio Code and a web browser. The user needs a web browser. 
 
 ## Instructions
 
