@@ -3,6 +3,11 @@
     --white: white;
     --skyblue: blue;
 }
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .myheight {
     max-height: 400px;
     width: max-content;
