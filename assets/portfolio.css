@@ -7,7 +7,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
-
 .myheight {
     max-height: 400px;
     width: max-content;
@@ -33,7 +32,9 @@ body {
 }
 
 #background {
-    background-color: var(--gray);
+    background-color: #f8f9fa
+    
+    /* var(--gray); */
 }
 
 .myprojects {
